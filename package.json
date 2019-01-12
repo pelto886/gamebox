@@ -1,0 +1,28 @@
+{
+  "name": "gatbox",
+  "version": "1.0.0",
+  "description": "Game assistant toolbox, a support tool for game event organizers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelto886/gatbox.git"
+  },
+  "keywords": [
+    "games",
+    "tournaments",
+    "support",
+    "asisstant"
+  ],
+  "author": "pelto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pelto886/gatbox/issues"
+  },
+  "homepage": "https://github.com/pelto886/gatbox#readme",
+  "dependencies": {
+    "fastify": "^1.13.4"
+  }
+}
